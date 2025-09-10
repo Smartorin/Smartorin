@@ -24,14 +24,15 @@
 
 <table align="center" width="90%" style="border:2px solid #00E676; border-radius:12px; background:linear-gradient(90deg,#232F3E 20%,#1E88E5 80%);">
   <tr>
-    <td style="padding:1em; color:#FFD600; font-size:1.1em;">
-      <ul>
-        <li>Backend y APIs REST</li>
-        <li>Front‑end moderno (React / TypeScript)</li>
-        <li>Bases de datos (SQL y NoSQL)</li>
-        <li>Docker, despliegue y buenas prácticas</li>
-      </ul>
-    </td>
+    <!-- td style="padding:1em; color:#FFD600; font-size:1.1em;" -->
+- Liderazgo y gestión de equipos
+- Planificación y gestión de proyectos tecnológicos
+- Toma de decisiones estratégicas
+- Comunicación efectiva
+- Diseño y administración de sistemas y redes
+- Seguridad informática
+- Pensamiento analítico y resolución de problemas
+- Despliegue y buenas prácticas.
   </tr>
 </table>
 
