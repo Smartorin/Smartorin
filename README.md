@@ -9,9 +9,10 @@
     <td align="center" style="padding:2em;">
       <h1 style="color:#FFD600; font-size:2.5em;">👋 Hola, seas bienvenido/a</h1>
       <h3 style="color:#00E676; font-size:1.5em;">Enfocado en construir aplicaciones web claras, escalables y mantenibles</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" style="margin:0 8px;animation:spin 5s linear infinite;">
+     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" style="margin:0 8px;animation:spin 5s linear infinite;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" style="margin:0 8px;animation:bounce 2s infinite;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" style="margin:0 8px;animation:shake 3s infinite;">
+      -->
       <!-- Animaciones CSS simuladas, real movimiento solo en HTML/CSS -->
     </td>
   </tr>
@@ -38,7 +39,7 @@
 
 ## ⭐️ Proyectos destacados
 
-<div align="center">
+<div >
   <h2 style="color:#FFD600;">Dab&Back con FI</h2>
 
   <!-- Tablero camo ultra profesional centrado -->
@@ -48,8 +49,8 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD600&labelColor=232F3E&borderRadius=8" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=232F3E&labelColor=232F3E&borderRadius=8" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFD600&labelColor=232F3E&borderRadius=8" />
-        <img src="https://img.shields.io/badge/React-1976D2?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=232F3E&borderRadius=8" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFD600&labelColor=232F3E&borderRadius=8" />
+        <!-- <img src="https://img.shields.io/badge/React-1976D2?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=232F3E&borderRadius=8" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFD600&labelColor=232F3E&borderRadius=8" /> -->
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFD600&labelColor=232F3E&borderRadius=8" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFD600&labelColor=232F3E&borderRadius=8" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFD600&labelColor=232F3E&borderRadius=8" />
@@ -62,33 +63,39 @@
   </table>
 </div>
 
----
-
 ## 🚀 Innovación y Tecnología
 
 <table align="center" width="45%" style="border:2px solid #FFD600; border-radius:12px; background:linear-gradient(90deg,#232F3E 10%,#1E88E5 90%);">
   <tr>
     <td align="center">
-      <!-- Animación Snake y Heatmap -->
-      <!-- <img src="https://github.com/Smartorin/Smartorin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" /> -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smartorin&theme=rogue" alt="Heatmap de contribuciones" width="90%" />
-      <img src="https://komarev.com/ghpvc/?username=Smartorin&style=for-the-badge&color=FFD600" alt="Profile views" />
-      <!-- Iconos SVG pro tech 
+     <!-- Animación Snake y Heatmap -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smartorin&theme=rogue" alt="Heatmap de contribuciones" width="60%" />
+      
+<!-- <img src="https://github.com/Smartorin/Smartorin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
+      Gráfico de lenguajes (tonos distintos, camo-like) -->
+      
+             
+       
+        
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smartorin&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" />
+       <br> <img src="https://komarev.com/ghpvc/?username=Smartorin&style=for-the-badge&color=FFD600" alt="Profile views" />
+       
+  <!-- Iconos SVG pro tech 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" style="margin:0 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" style="margin:0 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" style="margin:0 4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="32" style="margin:0 4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="32" style="margin:0 4px;">
-      -->
-    </td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="32" style="margin:0 4px;"> 
+    </td> -->
   </tr>
 </table>
 
+
 <div align="center">
-  
-  <!-- Lenguajes principales (dinámico desde perfil) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smartorin&layout=compact&hide_title=true&langs_count=8&theme=github_dark" alt="Top Languages" />
-</div>
+  <!-- Lenguajes principales (dinámico desde perfil)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smartorin&layout=compact&hide_title=true&langs_count=8&theme=github_dark" alt="Top Languages" />  -->
+</div> 
+
 
 ---
 
